@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:334155&text=Camilo%20This%20Punk&reversal=false&textBg=false&fontColor=f8fafc&fontSize=55&animation=twinkling&fontAlignY=38&desc=Construyendo%20mi%20camino%20en%20tecnolog%C3%ADa&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:334155&text=Camilo%20Conde&reversal=false&textBg=false&fontColor=f8fafc&fontSize=55&animation=twinkling&fontAlignY=38&desc=Construyendo%20mi%20camino%20en%20tecnolog%C3%ADa&descAlignY=58&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Camilo+%F0%9F%91%8B;Desarrollador+en+formaci%C3%B3n+con+mentalidad+de+crecimiento;Apasionado+por+crear+soluciones+con+impacto;Aprendiendo+cada+d%C3%ADa+para+ser+mi+mejor+versi%C3%B3n" alt="Typing animation" />
 
