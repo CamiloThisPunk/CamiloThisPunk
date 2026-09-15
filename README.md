@@ -72,8 +72,8 @@ Quiero convertirme en un profesional integral en tecnología, capaz de:
 
 ## 📫 Contacto
 
-- LinkedIn: *(agrega tu enlace)*
-- Email: *(agrega tu correo)*
+- LinkedIn: [Camilo Conde](https://www.linkedin.com/in/camilo-conde/)
+- Email: camiloharol80@gmail.com
 
 ---
 
