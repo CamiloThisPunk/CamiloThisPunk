@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:334155&text=Camilo%20Conde&reversal=false&textBg=false&fontColor=f8fafc&fontSize=55&animation=twinkling&fontAlignY=40&desc=Desarrollador%20de%20Software%20%7C%20Apasionado%20por%20la%20Tecnolog%C3%ADa&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:1e293b,100:334155&text=Camilo%20Conde&reversal=false&textBg=false&fontColor=f8fafc&fontSize=55&animation=twinkling&fontAlignY=38&desc=Construyendo%20mi%20camino%20en%20tecnolog%C3%ADa&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Camilo+%F0%9F%91%8B;Desarrollador+en+formaci%C3%B3n+con+mentalidad+pro;Construyendo+proyectos+con+disciplina+y+creatividad;Siempre+aprendiendo+y+evolucionando" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hola%2C+soy+Camilo+%F0%9F%91%8B;Desarrollador+en+formaci%C3%B3n+con+mentalidad+de+crecimiento;Apasionado+por+crear+soluciones+con+impacto;Aprendiendo+cada+d%C3%ADa+para+ser+mi+mejor+versi%C3%B3n" alt="Typing animation" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=CamiloThisPunk&label=Visitas&color=0ea5e9&style=for-the-badge" alt="profile views" />
@@ -65,12 +65,12 @@ Quiero convertirme en un profesional integral en tecnología, capaz de:
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CamiloThisPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloThisPunk&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CamiloThisPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloThisPunk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CamiloThisPunk&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CamiloThisPunk&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </div>
 
 ---
